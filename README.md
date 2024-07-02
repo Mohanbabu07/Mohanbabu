@@ -5,8 +5,6 @@
 -🔭 I’m currently working on various React Applications 
 
 -🌱 I’m currently learning MERN Stack.
-
--📄 Check out my Resume --> [https://drive.google.com/file/d/1sXeGHFLJOQrBh6UxxyH2rH_RfNzvQup6/view?usp=sharing]()
   
 -📫 Mail me through **mohanbabur10@gmail.com**
 
