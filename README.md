@@ -12,6 +12,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themohanbabu/) 
 [![Leetcode](https://img.shields.io/badge/leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/mohanbabu18/) 
+[![portfolio](https://img.shields.io/badge/portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://mohanbabu-portfolio.onrender.com/) 
 
 
 # 💻 Tech Stack:
