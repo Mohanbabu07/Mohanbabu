@@ -1,28 +1,147 @@
-<h1 align="center">Hey Folks 👋, I'm MohanBabu R</h1>
+<h1 align="center">Hi 👋, I'm Mohan Babu R</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohanbabu07&label=Profile%20views&color=0e75b6&style=flat" alt="Mohanbabu07" /> </p>
+<h3 align="center">
+Senior Software Developer | Full Stack Developer | AI Application Developer
+</h3>
 
--🔭 I’m currently working on various React Applications 
+---
 
--🌱 I’m currently learning MERN Stack.
-  
--📫 Mail me through **mohanbabur10@gmail.com**
+## 🚀 About Me
 
+- 💼 Senior Software Developer with 1+ years of experience
+- 🏢 Building enterprise-grade SaaS applications
+- 🤖 Developing AI applications using Lovable
+- 🌐 Full Stack Developer (React + Node.js + Supabase)
+- 🔐 Experienced in Authentication, MFA & RBAC Systems
+- 🗄️ Designing PostgreSQL databases and APIs
+- ☁️ Exploring Cloud Technologies (AWS)
+- 📍 Bengaluru, India
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themohanbabu/) 
-[![Leetcode](https://img.shields.io/badge/leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/mohanbabu18/) 
-[![portfolio](https://img.shields.io/badge/portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://mohanbabu-portfolio.onrender.com/) 
+---
 
+## 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### Frontend
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohanbabu07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohanbabu07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanbabu07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- ShadCN UI
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohanbabu07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Backend
 
+- Node.js
+- Express.js
+- Supabase
+- PostgreSQL
+- REST APIs
+- JWT Authentication
+- RBAC
+
+### AI Development
+
+- Lovable
+- AI Prompt Engineering
+- AI Assisted Development
+
+### Cloud & DevOps
+
+- Git
+- GitHub
+- Docker
+- AWS (Learning)
+
+---
+
+## 💼 What I'm Working On
+
+- 🚀 AI Powered SaaS Applications
+- 🔐 Authentication & MFA Systems
+- 🏢 Multi-Tenant Enterprise Applications
+- 📊 Dashboard Development
+- ⚡ Backend API Development
+- 🤖 AI Integrated Web Applications
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced System Design
+- AWS Cloud
+- Docker & Kubernetes
+- Microservices Architecture
+- AI Backend Engineering
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **<YOUR_EMAIL>**
+- 💼 LinkedIn: <YOUR_LINKEDIN>
+- 🌐 Portfolio: <YOUR_PORTFOLIO>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohanbabu07&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanbabu07&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanbabu07&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 Featured Skills
+
+✅ Full Stack Development
+
+✅ AI Application Development
+
+✅ Authentication & Authorization
+
+✅ Multi-Tenant Architecture
+
+✅ REST API Development
+
+✅ PostgreSQL Database Design
+
+✅ Enterprise SaaS Applications
+
+✅ Supabase
+
+✅ React & Next.js
+
+✅ Node.js
+
+---
+
+⭐ *Always learning, always building, always improving.*
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
