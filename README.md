@@ -4,18 +4,26 @@
 Senior Software Developer | Full Stack Developer | AI Application Developer
 </h3>
 
+<p align="center">
+Building scalable SaaS products, AI-powered applications, and secure enterprise systems.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohanbabu07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 💼 Senior Software Developer with 1+ years of experience
-- 🏢 Building enterprise-grade SaaS applications
-- 🤖 Developing AI applications using Lovable
-- 🌐 Full Stack Developer (React + Node.js + Supabase)
-- 🔐 Experienced in Authentication, MFA & RBAC Systems
-- 🗄️ Designing PostgreSQL databases and APIs
-- ☁️ Exploring Cloud Technologies (AWS)
-- 📍 Bengaluru, India
+- 💼 Senior Software Developer with **1+ years of experience**
+- 🏢 Developing enterprise-grade SaaS applications
+- 🤖 Building AI-powered web applications using **Lovable**
+- 🌐 Full Stack Developer specializing in React, Node.js & Supabase
+- 🔐 Implemented Authentication, MFA & Role-Based Access Control (RBAC)
+- 🗄️ Designing scalable PostgreSQL databases
+- ⚡ Building REST APIs & Microservices
+- ☁️ Currently learning AWS, Docker & AI Backend Engineering
 
 ---
 
@@ -23,66 +31,75 @@ Senior Software Developer | Full Stack Developer | AI Application Developer
 
 ### Frontend
 
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- Tailwind CSS
-- HTML5
-- CSS3
-- ShadCN UI
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-- Supabase
-- PostgreSQL
-- REST APIs
-- JWT Authentication
-- RBAC
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb" />
+</p>
 
-### AI Development
+### Cloud & Tools
 
-- Lovable
-- AI Prompt Engineering
-- AI Assisted Development
-
-### Cloud & DevOps
-
-- Git
-- GitHub
-- Docker
-- AWS (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman" />
+</p>
 
 ---
 
-## 💼 What I'm Working On
+## 💻 Current Focus
 
-- 🚀 AI Powered SaaS Applications
-- 🔐 Authentication & MFA Systems
-- 🏢 Multi-Tenant Enterprise Applications
-- 📊 Dashboard Development
+- 🤖 AI Application Development
+- 🔐 Authentication & MFA
+- 🏢 Enterprise SaaS Products
 - ⚡ Backend API Development
-- 🤖 AI Integrated Web Applications
+- 📊 PostgreSQL Database Design
+- 🔄 Microservices Architecture
+- ☁️ Cloud Deployment
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced System Design
-- AWS Cloud
-- Docker & Kubernetes
-- Microservices Architecture
 - AI Backend Engineering
+- Advanced System Design
+- Docker
+- Kubernetes
+- AWS
+- Distributed Systems
 
 ---
 
-## 📫 Connect With Me
+## 📂 Featured Projects
 
-- 📧 Email: **<YOUR_EMAIL>**
-- 💼 LinkedIn: <YOUR_LINKEDIN>
-- 🌐 Portfolio: <YOUR_PORTFOLIO>
+- 🔐 Authentication & MFA Platform
+- 🏢 Enterprise CRM System
+- 🤖 AI-powered Business Applications
+- 📊 Multi-Tenant SaaS Dashboard
+- ⚡ REST API Services
+- 🗄️ PostgreSQL Database Architecture
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/themohanbabu" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mohanbabur10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://mohanbabu-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
 
 ---
 
@@ -90,58 +107,60 @@ Senior Software Developer | Full Stack Developer | AI Application Developer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohanbabu07&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mohanbabu07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanbabu07&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanbabu07&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanbabu07&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanbabu07&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 Featured Skills
+## 🏆 GitHub Trophies
 
-✅ Full Stack Development
+<p align="center">
 
-✅ AI Application Development
+<img src="https://github-profile-trophy.vercel.app/?username=Mohanbabu07&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
-✅ Authentication & Authorization
-
-✅ Multi-Tenant Architecture
-
-✅ REST API Development
-
-✅ PostgreSQL Database Design
-
-✅ Enterprise SaaS Applications
-
-✅ Supabase
-
-✅ React & Next.js
-
-✅ Node.js
+</p>
 
 ---
 
-⭐ *Always learning, always building, always improving.*
+## 📈 Contribution Graph
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p align="center">
 
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohanbabu07&theme=tokyo-night"/>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+</p>
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+## ⚡ Core Skills
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+- Full Stack Development
+- AI Application Development
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- Supabase
+- PostgreSQL
+- Authentication
+- Multi-Factor Authentication (MFA)
+- RBAC
+- REST APIs
+- Microservices
+- Enterprise SaaS
+- Git & GitHub
+- Docker
+- AWS (Learning)
 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+> **"Building scalable software, secure systems, and AI-powered applications—one project at a time."**
