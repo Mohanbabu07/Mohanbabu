@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohan Babu R</h1>
 
 <h3 align="center">
-Senior Software Developer | Full Stack Developer | AI Application Developer
+Software Developer | Full Stack Developer | AI Application Developer
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ Building scalable SaaS products, AI-powered applications, and secure enterprise 
 
 ## 🚀 About Me
 
-- 💼 Senior Software Developer with **1+ years of experience**
+- 💼 Software Developer with **1+ years of experience**
 - 🏢 Developing enterprise-grade SaaS applications
 - 🤖 Building AI-powered web applications using **Lovable**
 - 🌐 Full Stack Developer specializing in React, Node.js & Supabase
@@ -75,7 +75,6 @@ Building scalable SaaS products, AI-powered applications, and secure enterprise 
 ## 📂 Featured Projects
 
 - 🔐 Authentication & MFA Platform
-- 🏢 Enterprise CRM System
 - 🤖 AI-powered Business Applications
 - 📊 Multi-Tenant SaaS Dashboard
 - ⚡ REST API Services
